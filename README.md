@@ -8,7 +8,7 @@ This project uses OpenCV and MediaPipe libraries to utilize the web camera for r
 *Draw a line when only the index finger is up and make a selection when both index and middle fingers are up 
 *Draw on a black canvas and then mask it with the actual frame
 
-# Gsture Slide module 
+# Gesture Slide module 
 *Detect hand gestures using MediaPipe 
 *Use swipe gestures (left/right) to navigate between slides 
 *Enable touchless slide control during presentations
